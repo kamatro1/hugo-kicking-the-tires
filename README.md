@@ -9,5 +9,5 @@ Practice Using Hugo for CIS 3500 Spring 2024 Homework 1 Part III
 - We then practiced on our own in the "Your Turn" section
   - First, we changed the draft status of the About page to true, regenerated the site, cleaned up the public folder, and then restored the page by setting the draft status back to false
   - We then created a Resume page and added content to it before regenerating the site
-  - We then created a COntage page with the default draft status being set to false
+  - We then created a Contage page with the default draft status being set to false
   
